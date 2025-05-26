@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-md p-4">
       <div className="max-w-4xl mx-auto flex flex-col items-center">
         <h1 className="text-3xl font-bold text-gray-800 mb-4">
-          Braintor Explorer
+          Brainrot Explorer
         </h1>
         <div className="flex gap-4">
           <Link href="/">
